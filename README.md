@@ -2,4 +2,4 @@
 This is my first Git Repository
 <br>
 
-Author - rohan makhale(infosys )
+Author - rohan makhale(infosys ltd )
